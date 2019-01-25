@@ -1179,6 +1179,10 @@ GL00,country,GREENLAND
 GL01,municipality,Nordgronland
 GL02,municipality,Ostgronland
 GL03,municipality,Vestgronland
+GL04,municipality,Kujalleq
+GL05,municipality,Qaasuitsup
+GL06,municipality,Qeqqata
+GL07,municipality,Sermersooq
 GM00,country,GERMANY
 GM01,state land,Baden-Wurttemberg
 GM02,state land,Bayern  Bavaria
